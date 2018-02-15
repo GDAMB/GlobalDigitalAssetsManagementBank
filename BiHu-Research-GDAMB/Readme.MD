@@ -9,6 +9,8 @@ Email: myepaybank@gmail.com
 ## 项目概况
 
 ### 公司简介
+* 币乎（bihu.com）是web3.0背景下基于区块链的身份系统，保护用户财产、数据和隐私，守护每个个体的数字自由，定义web3.0背景下个体的基本数字权利。币乎同时也是币社区的平台，是币乎ID在垂直社交领域的第一个应用场景。
+
 ### 团队简介
 ### 白皮书
 * [币乎白皮书V0.3-CH](https://github.com/GDAMB/GlobalDigitalAssetsManagementBank/blob/master/BiHu-Research-GDAMB/BIHU-White-Paper-V0.3-CH.pdf)
