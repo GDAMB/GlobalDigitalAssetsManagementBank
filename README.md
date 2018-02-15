@@ -16,8 +16,8 @@ Email: myepaybank@gmail.com
 
 * 增量计划
 * 发行总量 
-* 流通量 
 * 团队体量
+* 流通量 
 
 ## 项目公告
 
