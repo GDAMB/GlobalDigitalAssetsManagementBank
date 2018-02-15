@@ -11,7 +11,7 @@ Email: myepaybank@gmail.com
 ### 公司简介
 ### 团队简介
 ### 白皮书
-** [<<币乎白皮书V0.3>>](https://github.com/GDAMB/GlobalDigitalAssetsManagementBank/blob/master/BiHu-Research-GDAMB/BIHU-White-Paper-V0.3-CH.pdf)
+* [币乎白皮书V0.3](https://github.com/GDAMB/GlobalDigitalAssetsManagementBank/blob/master/BiHu-Research-GDAMB/BIHU-White-Paper-V0.3-CH.pdf)
 
 ## Token信息
 
