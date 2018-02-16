@@ -22,7 +22,7 @@ Email: myepaybank@gmail.com
 ## 项目公告
 
 * 技术进度
-     *  [EOS更新于20170204](GlobalDigitalAssetsManagementBank/EOS-Research-GDAMB/EOS.IO-Development-Update-20180204.md)
+     * [EOS更新于20170204](GlobalDigitalAssetsManagementBank/EOS-Research-GDAMB/EOS.IO-Development-Update-20180204.md)
 * 项目战略
 
 ## 项目研报
