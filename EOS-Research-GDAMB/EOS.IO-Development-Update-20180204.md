@@ -5,14 +5,14 @@ Our team has been working around the clock to make our EOS.IO software the best 
 ## EOSIO BIOS
 A computer's BIOS is built into the hardware and is the first thing a computer loads prior to starting the operating system. This week we continue with the operating system metaphor to make the EOSIO blockchain bootstrap process as simple as possible, like a computer BIOS. The blockchain now starts up with a very simple initial state:
 
-a single account (eosio.system)
-a single private key
-a single block producer
+1. a single account (eosio.system)
+2. a single private key
+3. a single block producer
 This initial account is like the root account on linux systems, it has unlimited power until it yields this power to a higher level operating system smart contract. From this initial state, the @eosio.system account will upload the operating system smart contract that implements the following:
 
-staking for voting, network bandwidth, cpu bandwidth, ram, and storage.
+1. staking for voting, network bandwidth, cpu bandwidth, ram, and storage.
 producer and proxy vote creation
-You can view this initial state as an embryonic stem cell capable of adapting an EOSIO based blockchain to any number of use cases and governance structures all of which can be updated and tweaked without requiring any hard forks.
+2. You can view this initial state as an embryonic stem cell capable of adapting an EOSIO based blockchain to any number of use cases and governance structures all of which can be updated and tweaked without requiring any hard forks.
 
 We gain many benefits from this approach because it makes the core EOSIO software simpler and easier to test.
 
@@ -45,9 +45,9 @@ We added support for zlib compression of transactions which can provide a 60% or
 ## Network Updates
 The P2P network team has been busy updating the code to enhance performance and stability. This week they made significant progress on the following:
 
-block summary - when a block is broadcast only the transaction IDs are included rather than retransmitting all the transactions in the block. This will reduce bandwidth usage by almost 50%.
+1. block summary - when a block is broadcast only the transaction IDs are included rather than retransmitting all the transactions in the block. This will reduce bandwidth usage by almost 50%.
 
-large message support - broadcasting large messages (like 50kb smart contracts) needs a different network protocol than small messages (like 200 byte transfers).
+2. large message support - broadcasting large messages (like 50kb smart contracts) needs a different network protocol than small messages (like 200 byte transfers).
 
 ## Conclusion
 Our development team is working to make EOSIO the most efficient, general purpose, and flexible platform to date.
