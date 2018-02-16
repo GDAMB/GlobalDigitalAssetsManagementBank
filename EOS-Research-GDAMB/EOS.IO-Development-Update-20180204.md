@@ -8,6 +8,7 @@ A computer's BIOS is built into the hardware and is the first thing a computer l
 1. a single account (eosio.system)
 2. a single private key
 3. a single block producer
+
 This initial account is like the root account on linux systems, it has unlimited power until it yields this power to a higher level operating system smart contract. From this initial state, the @eosio.system account will upload the operating system smart contract that implements the following:
 
 1. staking for voting, network bandwidth, cpu bandwidth, ram, and storage.
