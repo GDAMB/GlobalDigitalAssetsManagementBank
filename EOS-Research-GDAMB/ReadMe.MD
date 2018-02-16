@@ -11,7 +11,7 @@ Email: myepaybank@gmail.com
 * 公司简介
 * 团队简介
 * 白皮书
-    * [EOS技术白皮书]（https://github.com/GDAMB/Documentation/blob/master/zh-CN/TechnicalWhitePaper.md）
+    * [EOS技术白皮书]（https://github.com/GDAMB/GlobalDigitalAssetsManagementBank/blob/master/EOS-Research-GDAMB/TechnicalWhitePaper.md#proof-of-completeness）
 
 ## Token信息
 
