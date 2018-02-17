@@ -65,7 +65,7 @@ Email: myepaybank@gmail.com
 
 ## 招聘启事
 
-* 能按照上述模板独立写项目研究的伙伴向我砸过来，（weixin：AtomBank）
+* 能按照上述模板独立写项目研究的伙伴向我砸过来或者能完成部分内容的也砸过来（weixin：AtomBank）
 
 ## 如果你正好也有同样的兴趣也可加入我们
 
